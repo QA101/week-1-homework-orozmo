@@ -13,7 +13,7 @@ public class BetweenProgram {
 	 * 
 	 */
 	public static void main(String[] args) {
-		int x = 350;
+		int x = 150;
 	    int y = 100;
 		int z = 200;
 	
