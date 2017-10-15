@@ -8,13 +8,13 @@ public class FindMax {
 		int x = 3;
 		int y = 4;
 				
-		if (x<y)
+		if (x>y)
 		{
 			System.out.println( "TRUE");
 		}
 		else 
 		{
-			System.out.println( "TRUE");
+			System.out.println( "False");
 		}		
 
 	}
