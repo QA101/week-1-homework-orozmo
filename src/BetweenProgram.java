@@ -13,8 +13,17 @@ public class BetweenProgram {
 	 * 
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		int x = 350;
+	    int y = 100;
+		int z = 200;
+	
+  if(y <= x && z >= x) 
+  {
+	System.out.println("TRUE");
+  }
+  else
+  {
+	System.out.println("FALSE");
+  }
 	}
-
 }
