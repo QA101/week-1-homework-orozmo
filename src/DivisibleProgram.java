@@ -13,5 +13,14 @@ public class DivisibleProgram {
 	 */
 	public static void main(String args[]){
 		
+		int n1 = 5;
+        int n2 = 10;
+        for (int i = n1; i < n2; i++) {
+            if (((i & 1) == 0)) {
+                if (i % 3 != 0) {
+                    System.out.print(i + " ");
+                }
+            }
+        }
 	}
 }
